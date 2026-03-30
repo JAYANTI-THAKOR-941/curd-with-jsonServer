@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": "3",
+      "name": "Priya Patel",
+      "email": "priya@gmail.com",
+      "gender": "Female",
+      "city": "Surat",
+      "avatar": "https://i.pravatar.cc/150?img=3"
+    },
+    {
+      "id": "5",
+      "name": "Sneha Joshi",
+      "email": "sneha@gmail.com",
+      "gender": "Female",
+      "city": "Rajkot",
+      "avatar": "https://i.pravatar.cc/150?img=5"
+    },
+    {
+      "name": "Jiya Perker",
+      "email": "jiyaperker22@gmail.com",
+      "gender": "Female",
+      "city": "Gandhinagar",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgvOd70wR7A3K0r60X0EeBVBef4hrHWXLoTg&s",
+      "id": "noWdBv-IAA4"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
